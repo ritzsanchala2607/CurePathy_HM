@@ -30,8 +30,5 @@ An innovative, web-based platform designed to streamline patient management, pay
   `HTML`, `CSS`, `JavaScript`, `PHP`, `MySQL`
 
 - **Development Tool**:  
-  `Visual Studio Code`
+  `Visual Studio Code`, `XAMPP`
 
----
-
-## Unlisted YouTube Video link:
