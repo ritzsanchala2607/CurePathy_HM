@@ -4,22 +4,22 @@ An innovative, web-based platform designed to streamline patient management, pay
 
 ## Key Features
 
-- **-> Patient Management**  
+**-> Patient Management**  
   Add and manage patient records with **unique Patient IDs** for accurate tracking and quick retrieval.
 
-- **-> Payment Tracking**  
+**-> Payment Tracking**  
   Seamlessly handle both **online and cash payments**, ensuring clean and reliable financial records.
 
-- **-> Medical Certificate Generation**  
+**-> Medical Certificate Generation**  
   Generate medical certificates effortlessly by entering **patient name** and **date**.
 
-- **-> Overseas Certificate Generation**  
+**-> Overseas Certificate Generation**  
   Easily create overseas certificates using **patient name** and **specific medicine details**.
 
-- **-> Visit History**  
+**-> Visit History**  
   View previous visit records per patient using their **unique ID**, supporting better continuity of care.
 
-- **-> Add New Records Anytime**  
+**-> Add New Records Anytime**  
   Keep patient data up-to-date by adding new visit records as needed.
 
 ---
